@@ -1,0 +1,12 @@
+NewYork Chicago Seattle Phoenix NewHaven Boise Denver Portland SanDiego LittleRock
+Chicago NewHaven 
+0 1149 Inf Inf 112 Inf Inf Inf Inf 1739
+1149 0 Inf Inf 1128 2326 1473 1434 Inf 887
+Inf Inf 0 Inf Inf 651 Inf Inf 1712 Inf
+Inf Inf Inf 0 Inf 1186 941 Inf 481 1820
+112 1228 Inf Inf 0 Inf Inf 340 Inf Inf
+Inf 2326 651 1186 Inf 0 1025 Inf 1215 Inf
+Inf 1473 Inf 941 Inf 1025 0 Inf Inf 1250
+Inf 1434 Inf Inf 340 Inf Inf 0 Inf Inf
+Inf Inf 1712 481 Inf 1215 Inf Inf 0 Inf
+1739 887 Inf 1820 Inf Inf 1250 Inf Inf 0
